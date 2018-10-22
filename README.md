@@ -11,7 +11,7 @@ Smart Contracts - Solidity
 
 Ethereum interface - Web3
 
-Frontend - React + Next.js, Semantic UI React for styling.
+Frontend - React + Next.js, Semantic UI React as a UI Framework for styling.
 
 
 Roundhouse doesn't use truffle. It uses self written code for compiling (using solc) and deployment using the Infura API as a Web3 provider.
